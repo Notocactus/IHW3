@@ -21,13 +21,14 @@
 [Библиотека макросов](https://github.com/Notocactus/IHW3/blob/main/macro-syscalls.m)
 [Подпрограммы](https://github.com/Notocactus/IHW3/blob/main/subprograms.asm)
 
-little_input.txt: 
+*little_input.txt:* 
 A tiny little test program :)
 
-output: 
+*output:* 
 A tIny lIttlE tEst prOgrAm :)
 
-big_input.txt: 
+
+*big_input.txt:* 
 The bridge
 Ten days after the war ended, my sister Laura drove a car off a bridge. The
 bridge was being repaired: she went right through the Danger sign. The car
@@ -91,7 +92,7 @@ down and show me where.
 But some people can’t tell where it hurts. They can’t calm down. They
 can’t ever stop howling. 
 
-output: 
+*output:* 
 ThE brIdgE
 TEn dAys AftEr thE wAr EndEd, my sIstEr LAUrA drOvE A cAr Off A brIdgE. ThE
 brIdgE wAs bEIng rEpAIrEd: shE wEnt rIght thrOUgh thE DAngEr sIgn. ThE cAr
